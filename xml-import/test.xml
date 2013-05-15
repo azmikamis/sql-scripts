@@ -1,0 +1,11 @@
+<SFTPMonitor>
+	<SFTPConname>sss</SFTPConname>
+	<SFTPExecuteDate>20120329</SFTPExecuteDate>
+	<SFTPFolder>aaa</SFTPFolder>
+	<SFTPFilename>ccc</SFTPFilename>
+	<SFTPType>qqq</SFTPType>
+	<SFTPCreated>20120329</SFTPCreated>
+	<SFTPSecurity>www</SFTPSecurity>
+	<SFTPSize>1234</SFTPSize>
+	<SFTPSuccess>1</SFTPSuccess>
+</SFTPMonitor>
